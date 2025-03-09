@@ -11,11 +11,32 @@
             "id": "ab1e18fe1cb4b2fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Phonology.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Sentence Library.md",
+                "bFile": "Sentence Library.md",
+                "aRef": ""
+              }
+            }
+          },
+          {
+            "id": "d955b9250879c63d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cef2fb0a0021ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
               }
             }
           },
@@ -30,9 +51,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39a165d524005564",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Sentence Library.md",
+                "bFile": "Sentence Library.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              }
+            }
+          },
+          {
+            "id": "3531b6e2b2b722c6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Sentence Library.md",
+                "bFile": "Sentence Library.md",
+                "aRef": ""
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Verbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "List of Verbs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dabee0e92cb7d619",
+  "active": "cef2fb0a0021ee8b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Sentence Library.md",
     "Phonology.md",
     "List of Verbs.md",
     "Modifier.md",
@@ -178,10 +222,8 @@
     "ABABA (Old).md",
     "ABABA.md",
     "Sentence Structure.md",
-    "Sentence Library.md",
     "Qualifier.md",
     "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
     "Sentence.md"
   ]
 }
