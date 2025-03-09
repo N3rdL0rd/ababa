@@ -43,3 +43,7 @@
 			- Interpreted as English
 		- (Y) lupDujHomwIj luteb gharghmey
 			- Interpreted as Klingon by default
+- Capable of: LQP
+	- Followed by a verb. Specifies the the modified noun is capable of verb
+
+	

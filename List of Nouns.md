@@ -18,7 +18,9 @@
 - Animal: LE
 	- Aquatic: Z
 		- Eel: Q
-	- Monkey: 
+	- Monkey: K
 - Vehicle: HZ
 	- Watercraft: Z
 		- Hovercraft: K
+- Plant: GP
+	- Tree: L

@@ -22,5 +22,9 @@
 - (BA-Q)ZP (GHK A)HL (SL)L
 	- ***Where*** was my money moved to?!?
 	- Or: Where did all my money go?!?
+- SLB GPL (BA-LQP GPP)LEK
+	- There's a flying monkey in the tree!
+
+	
 
 This list is always expanding! If you'd like to help, try translating (or adding) some phrases from or to the [[List of Untranslated Phrases]].
