@@ -4,12 +4,7 @@
 	- B-type: Hard sound, consonant
 	- Neutral fills the place of either, with conditional pronunciation based on its place in the word (depending on the phoneme)
 		- Some phonemes are neutral but *special*, such as "/" or "Y" - they have specific meanings as special [[modifier]]s.
-		- Note that "~" and "!" are the same sound, but are separate for the sake of clarity - ""
-
-
-
-%% TODO: IPA definitions %%
-
+		- Note that "~" and "!" are the same sound, but are separate for the sake of clarity.
 
 | Type | Sound (English) | IPA      | Notation |
 | ---- | --------------- | -------- | -------- |
@@ -32,5 +27,5 @@
 | B    | Ehh             | [ɛð:]    | E        |
 | B    | Guh             | [ɡʌ]     | G        |
 | B    | Duh             | [dʌ]     | D        |
-%% TODO: IPA definitions %%
+
 
