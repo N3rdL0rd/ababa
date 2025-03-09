@@ -1,0 +1,27 @@
+### Verbs
+
+- To move: ZP
+- To be stupid or idiotic (as of a person): PAC
+- To be stupid or useless (as of an object): PACA
+- To enjoy/find interesting: KP
+- To articulate: QCA
+- To consume: BE
+- To perceive (consume with eyes): BESK
+- To contain: SLB
+- To exist: ZW
+- To know but to be unable to articulate: GPQ
+- To be in a state of selection paralysis: QWE
+- To be born: DH
+- To die: HD
+- To be free (as in "speech"): OGS
+- To be free (as in "beer"): GOS
+- To be free (as in open-source, "libre"): SGO
+- To be equal (with others): SQQ
+	- When an object is specified with SQQ, it is "to be equal with others in this respect", not "to be equal with"
+- To be equal with: SQK
+- To be in a state of happiness: OGP
+- To be in a state of sadness: PGO
+- To be in a state of anger: KCD
+- To be in a state of calmness: DCK
+
+	
