@@ -16,7 +16,9 @@
                 "aFile": "Sentence Library.md",
                 "bFile": "Sentence Library.md",
                 "aRef": ""
-              }
+              },
+              "icon": "diff",
+              "title": "Diff: Sentence Library"
             }
           },
           {
@@ -24,20 +26,37 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
             "id": "cef2fb0a0021ee8b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sentence Library.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sentence Library"
+            }
+          },
+          {
+            "id": "b83af2753a2e39c7",
+            "type": "leaf",
+            "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
-              }
+                "aFile": "Phonology.md",
+                "bFile": "Phonology.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Phonology"
             }
           },
           {
@@ -49,7 +68,9 @@
                 "file": "List of Verbs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "List of Verbs"
             }
           },
           {
@@ -62,7 +83,9 @@
                 "bFile": "Sentence Library.md",
                 "aRef": "HEAD",
                 "bRef": ""
-              }
+              },
+              "icon": "diff",
+              "title": "Diff: Sentence Library"
             }
           },
           {
@@ -74,11 +97,13 @@
                 "aFile": "Sentence Library.md",
                 "bFile": "Sentence Library.md",
                 "aRef": ""
-              }
+              },
+              "icon": "diff",
+              "title": "Diff: Sentence Library"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,8 +122,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -113,7 +141,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -121,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -151,7 +183,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -162,7 +196,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,8 +208,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -181,7 +221,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -189,7 +235,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -210,20 +258,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cef2fb0a0021ee8b",
+  "active": "b83af2753a2e39c7",
   "lastOpenFiles": [
+    "Sentence Structure.md",
+    "Modifier.md",
+    "Conjunction.md",
+    "List of Nouns.md",
+    "List of Verbs.md",
+    "Untitled.canvas",
+    "Qualifier.md",
+    "Phonology.md",
     "conflict-files-obsidian-git.md",
     "Sentence Library.md",
-    "Phonology.md",
-    "List of Verbs.md",
-    "Modifier.md",
-    "List of Nouns.md",
-    "Conjunction.md",
     "ABABA (Old).md",
     "ABABA.md",
-    "Sentence Structure.md",
-    "Qualifier.md",
-    "Untitled.canvas",
     "Sentence.md"
   ]
 }
