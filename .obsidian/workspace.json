@@ -11,15 +11,24 @@
             "id": "14b4eb22acbf6f76",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "03c0392b3cc01d56",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ABABA (Old).md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ABABA (Old).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ABABA (Old).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ABABA (Old).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,14 +164,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14b4eb22acbf6f76",
+  "active": "03c0392b3cc01d56",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "ABABA (Old).md",
+    "List of Nouns.md",
+    "Conjunction.md",
     "Sentence Structure.md",
     "Sentence Library.md",
     "Qualifier.md",
     "Phonology.md",
     "Modifier.md",
-    "ABABA (Old).md",
     "ABABA.md",
     "Sentence.md"
   ]
