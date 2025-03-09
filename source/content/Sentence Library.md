@@ -22,8 +22,10 @@
 - (BA-Q)ZP (GHK A)HL (SL)L
 	- ***Where*** was my money moved to?!?
 	- Or: Where did all my money go?!?
-- SLB GPL (BA-LQP GPP)LEK
+- SLB GPL (BA-LQP GPP)LE{K}
 	- There's a flying monkey in the tree!
+- (K)BDQ (GHK A)LE{PP{K}} (WB)BE
+	- My duck does not want to eat you
 
 	
 

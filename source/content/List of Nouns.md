@@ -19,6 +19,8 @@
 	- Aquatic: Z
 		- Eel: Q
 	- Monkey: K
+	- Birds: PP
+		- Duck: K
 - Vehicle: HZ
 	- Watercraft: Z
 		- Hovercraft: K

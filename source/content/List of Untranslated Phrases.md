@@ -1,9 +1,8 @@
-_There's a flying monkey in the tree._
+
 _I am sorry I have to leave you, but I must buy a hat._
 _The dragon insists we sacrifice a maiden otherwise he will burn the village to the ground._
 _You must be very proud of your large hat._
 _My milkman is dishonest._
-_My duck does not want to eat you._
 _Why are you laughing - is my ~~Hungarian~~ ABABA that bad?_
 _Excuse me miss, there's a duck on your head._
 _I have a hangover._

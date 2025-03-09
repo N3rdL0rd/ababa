@@ -45,5 +45,9 @@
 			- Interpreted as Klingon by default
 - Capable of: LQP
 	- Followed by a verb. Specifies the the modified noun is capable of verb
+- The action of: WB
+	- Can only modify verbs. Modified verb becomes treated as a noun meaning "The action of doing this verb." For example:
+		- BDQ H (WB)BE
+		    - I want to do the action of eating
 
 	
