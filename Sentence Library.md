@@ -1,3 +1,4 @@
+For some help interpreting these, see the [[list of nouns]] and the page on [[modifier]]s.
 
 - PACA ABB ~ (Q)PACA ABB ~ (C)PACA ABB
 	- This language is stupid, was stupid, and will be stupid
