@@ -14,3 +14,4 @@ An example of a sentence with English words could be:
 	- This can be rearranged to:
 		- *I ate a burger.*
 
+For complete examples of sentences in ABABA with translations, see [[Sentence Library]].

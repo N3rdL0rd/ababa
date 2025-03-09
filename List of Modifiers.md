@@ -1,0 +1,45 @@
+
+- I did/Affirmative: S
+- I did not/Negative: K
+- Correctly: B
+- Incorrectly: Z
+- In the future: C
+- In the past: Q
+- Early in the day (breakfast/morning): LA
+- Middle of the day (lunch/noon): LZ
+- Late in the day (dinner/night): LQ
+- Question: SL
+	- You can question any part of a sentence - the verb, the subject, the object, etc. For instance:
+	- (SL)PAC A:
+		- Am I ***stupid***? (Questioning verb)
+	- PAC (SL)A:
+		- Am ***I*** stupid? (Questioning subject)
+	- (Z)QCA H (SL)L:
+		- You spelled ***it*** wrong? (Questioning object)
+- Near: GH
+- Far: HG
+- Big: GW
+- Small: WG
+- Minimum: SQ
+- Maximum: QS
+- Multiple of: GL
+- Ownership: GHK:
+	- After the ownership modifier, specify a noun that is the owner of the word being modified. For instance:
+		- HZ{Z-K}: The hovercraft
+		- (GHK A)HZ{Z-K}: ***My*** hovercraft
+			- Note that A is the noun for "me"
+- Disapproving: !!!
+	- Disapproves of any word. For instance:
+		- (!!!)ZW H
+			- I disapprove of your existence.
+		- (QS-!!!)ZW A
+			- I maximally disapprove of (hate/detest) my existence.
+			- Or: I hate my life.
+- Surprised: BA
+	- Slur the B and A so it sounds like "Bah!"
+- Foreign language: Y
+	- Specifies that the following word will be in a different language. Use the noun corresponding to the language in the language of origin after this qualifier to specify language. If you do not specify a language, it may be inferred or assumed to be Klingon. For example:
+		- (Y English)Antidisestablishmentarianism
+			- Interpreted as English
+		- (Y) lupDujHomwIj luteb gharghmey
+			- Interpreted as Klingon by default
