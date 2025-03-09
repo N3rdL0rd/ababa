@@ -1,3 +1,7 @@
+---
+title: ABABA
+---
+
 The objectively superior language.
 
 - [[Phonology]]
