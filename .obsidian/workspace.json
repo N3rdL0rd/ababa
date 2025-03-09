@@ -11,10 +11,12 @@
             "id": "14b4eb22acbf6f76",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "ABABA (Old).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -36,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -55,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -65,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -90,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ABABA (Old).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +93,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -108,11 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ABABA (Old).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -122,12 +115,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           },
           {
@@ -136,12 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+                "file": "ABABA (Old).md"
+              }
             }
           },
           {
@@ -149,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -174,13 +157,13 @@
   },
   "active": "14b4eb22acbf6f76",
   "lastOpenFiles": [
-    "ABABA (Old).md",
     "Sentence Structure.md",
+    "Sentence Library.md",
     "Qualifier.md",
     "Phonology.md",
-    "Sentence Library.md",
-    "ABABA.md",
     "Modifier.md",
+    "ABABA (Old).md",
+    "ABABA.md",
     "Sentence.md"
   ]
 }
