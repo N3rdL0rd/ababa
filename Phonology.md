@@ -6,49 +6,31 @@
 		- Some phonemes are neutral but *special*, such as "/" or "Y" - they have specific meanings as special [[modifier]]s.
 		- Note that "~" and "!" are the same sound, but are separate for the sake of clarity - ""
 
-<<<<<<< HEAD
-| Type | Sound         | Notation |
-| ---- | ------------- | -------- |
-| N    | L (B)/Luh (A) | L        |
-| N    | Click (Tsk)   | !        |
-| N    | Click (Tsk)   | ~        |
-| N    | Huh           | /        |
-| N    | Yee           | Y        |
-| A    | Suh           | S        |
-| A    | Shh           | C        |
-| A    | Puh           | P        |
-| A    | Oh            | O        |
-| A    | Ooh           | H        |
-| A    | Buh           | B        |
-| A    | Wuh           | W        |
-| B    | Theuh         | Z        |
-| B    | Ah            | A        |
-| B    | Cuh           | K        |
-| B    | Qwuh          | Q        |
-| B    | Ehh           | E        |
-| B    | Guh           | G        |
-| B    | Duh           | D        |
-=======
-| Type | Sound (English) | IPA | Notation |
-| ---- | --------------- | --- | -------- |
-| N    | L (B)/Luh (A)   |     | L        |
-| N    | Click (Tsk)     |     | !        |
-| N    | Click (Tsk)     |     | ~        |
-| N    | Huh             |     | /        |
-| N    | Yee             |     | Y        |
-| A    | Suh             |     | S        |
-| A    | Shh             |     | C        |
-| A    | Puh             |     | P        |
-| A    | Oh              |     | O        |
-| A    | Ooh             |     | H        |
-| A    | Buh             |     | B        |
-| A    | Wuh             |     | W        |
-| B    | Theuh           |     | Z        |
-| B    | Ah              |     | A        |
-| B    | Cuh             |     | K        |
-| B    | Qwuh            |     | Q        |
-| B    | Ehh             |     | E        |
-| B    | Guh             |     | G        |
-| B    | Duh             |     | D        |
+
+
 %% TODO: IPA definitions %%
->>>>>>> origin/main
+
+
+| Type | Sound (English) | IPA      | Notation |
+| ---- | --------------- | -------- | -------- |
+| N    | L (B)/Luh (A)   | [l]/[lʌ] | L        |
+| N    | Click (Tsk)     | [kǀ]     | !        |
+| N    | Click (Tsk)     | [kǀ]     | ~        |
+| N    | Huh             | [hʌ]     | /        |
+| N    | Yee             | [ji]     | Y        |
+| A    | Suh             | [sʌ]     | S        |
+| A    | Shh             | [ʃ:]     | C        |
+| A    | Puh             | [pʌ]     | P        |
+| A    | Oh              | [oʊ]     | O        |
+| A    | Ooh             | [u]      | H        |
+| A    | Buh             | [bʌ]     | B        |
+| A    | Wuh             | [wʌ]     | W        |
+| B    | Theuh           | [ðʌ]     | Z        |
+| B    | Ah              | [a:]     | A        |
+| B    | Cuh             | [kʌ]     | K        |
+| B    | Qwuh            | [kwʌ]    | Q        |
+| B    | Ehh             | [ɛð:]    | E        |
+| B    | Guh             | [ɡʌ]     | G        |
+| B    | Duh             | [dʌ]     | D        |
+%% TODO: IPA definitions %%
+
