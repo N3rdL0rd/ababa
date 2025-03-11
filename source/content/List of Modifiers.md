@@ -46,8 +46,10 @@
 - Capable of: LQP
 	- Followed by a verb. Specifies the the modified noun is capable of verb
 - The action of: WB
-	- Can only modify verbs. Modified verb becomes treated as a noun meaning "The action of doing this verb." For example:
-		- BDQ H (WB)BE
-		    - I want to do the action of eating
+	- Can only modify verbs. Modified verb becomes treated as a noun meaning "The action of doing this verb." If the subject is not specified, it is assumed to be the speaker.  For example:
+		- (K)BDQ A (WB)PAC H:
+			- I wish you were not stupid(Subject specified)
+		- K)BDQ A (WB)PAC:
+			- I wish I was not stupid(Subject not specified)
 
 	

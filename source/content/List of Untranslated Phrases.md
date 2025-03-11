@@ -27,3 +27,15 @@ _Please give me your trousers._
 _My monkey steals my keys._  
 *So long, and thanks for all the fish*  
 *I will X-ray your teeth.*  
+There's a corpse on the bed. Please change the sheets.
+I may be drunk, but tomorrow morning I shall be sober, and you will still be ugly.
+Don't "imperialist pig" me, my good man.
+My wife fell overboard about ten miles back.
+I must compliment you on your understanding of our language.
+Have you ever considered that we might be insulted because you haven't learned ~~English~~ Ababa?
+Learn to read, monkey boy.
+ Help me! I am being stalked by a wild garden gnome
+ My Goddess can beat up your God
+ I'm sorry, I can't hear you over the voices in my head
+ I have a catapult. Give me all your money, or I will fling an enormous rock at your head.
+ May barbarians invade your personal space!
