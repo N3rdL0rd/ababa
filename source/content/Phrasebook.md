@@ -12,7 +12,7 @@
 	- Or: I ate lunch
 - (SL)PAC A:
 	- Am I stupid?
-- (QS)SLB (GHK A)HZ{Z{K}} LE{Z{Q}}
+- (QS)SLB (GHK A)HZ{Z{K}} (GL)LE{Z{Q}}
 	- My hovercraft is full of eels.
 - (Q)DH (QS-GL)QH ~ (Q)HD (QS-GL)QH
 	- All human beings are born, and all human beings will die.
@@ -26,7 +26,5 @@
 	- There's a flying monkey in the tree!
 - (K)BDQ (GHK A)LE{PP{K}} (WB)BE
 	- My duck does not want to eat you
-
-	
 
 This list is always expanding! If you'd like to help, try translating (or adding) some phrases from or to the [[List of Untranslated Phrases]].

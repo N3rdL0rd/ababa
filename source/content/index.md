@@ -1,9 +1,13 @@
 ---
 title: ABABA
 ---
-
 The objectively superior language.
 
+Resources:
+- [[Phrasebook]]
+- [[ABABA For English Speakers]]
+
+Formal definitions:
 - [[Phonology]]
 - [[Sentence Structure]]
 	- [[Modifier]]
@@ -13,4 +17,3 @@ The objectively superior language.
 		- [[List of Nouns]]
 	- [[Qualifier]]
 	- [[Conjunction]]
-- [[Sentence Library]]

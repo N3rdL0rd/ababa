@@ -9,7 +9,7 @@
 	- Note that this is the **only** word permitted to violate the rule of ABAB/BABA ordering.
 - Human being: QH
 - Dignity: ESA
-- Rights(as in human rights): ZA
+- Rights (as in human rights): ZA
 - Money: HL
 
 ## Qualified Nouns
